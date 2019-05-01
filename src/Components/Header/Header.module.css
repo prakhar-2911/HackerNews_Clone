@@ -1,0 +1,10 @@
+.heading > p,h1{
+    color: grey;
+    background-color: inherit;
+    text-align: center;
+    display: inline;
+}
+div{
+    margin-left: 40px;
+    margin-top: 20px;
+}
